@@ -44,24 +44,15 @@ sha256sum -c SHA256SUMS
 
 Some files listed in the hash manifests are not in this public copy (see below), so those lines of `sha256sum -c` will fail here. The hash files themselves are the originals, byte for byte. Against a full original tree, the hashes are meant to verify the omitted files too.
 
-## Files left out of this copy
+## Hash-locked writeups
 
-Hash-locked files that named an old author string, left out so those hashes are not broken by a rewrite:
+The original `PREREG.md`, `RESULTS.md`, `SUMMARY.md`, and `src/render_docs.py` are in this repo byte for byte, including the original author line, so the hashes in `PREREG.sha256` and `SHA256SUMS` still verify. The original README is here as `ORIGINAL_README.md` (this `README.md` is a later public wrapper). To check the `./README.md` line in `SHA256SUMS`, hash `ORIGINAL_README.md`.
 
-- `PREREG.md` (hashed by `PREREG.sha256` and `SHA256SUMS`)
-- `README.md` (the original; this README is a new public wrapper)
-- `RESULTS.md`
-- `SUMMARY.md`
-- `src/render_docs.py`
+## Files that could not be uploaded
 
-Too large for this publish path (over 1 MB):
+The GitHub connector used for this publish accepts text only, and rejects a single request that is too large. These files are still local and were not pushed. I did not use `gh` or a raw API token as a workaround.
 
-- `tables/dual_sigma_tables.tsv` (about 8.2 MB; sha256 `79770248b2661e3dd4144b98f75a1a2e2f82d6bf77328678eaf78d9dc432068d`, also listed in `FREEZE.sha256`)
-
-Binaries, not included (binary):
-
+- `tables/dual_sigma_tables.tsv` (about 8.2 MB; sha256 `79770248b2661e3dd4144b98f75a1a2e2f82d6bf77328678eaf78d9dc432068d`, listed in `FREEZE.sha256` and `SHA256SUMS`). The upload returned HTTP 413 Payload Too Large.
 - `SUMMARY.pdf`
 - `docs/chart_dual_sigma.png`
 - `docs/summary_preview-1.png`
-
-The official score and the code that produced it are in this repo even without those omitted writeups.
