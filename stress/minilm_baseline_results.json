@@ -1,1 +1,41 @@
-$file:/workspace/publish_staging/dual-sigma/stress/minilm_baseline_results.json
+{
+ "model": "all-MiniLM-L6-v2@6fd5d72fe458",
+ "threshold_from_dev": 0.9562,
+ "dev_core_balanced_accuracy": 0.6444,
+ "blind_core_balanced_accuracy": 0.6222,
+ "blind_core_false_green_rate": 0.0556,
+ "blind_hard_negative_false_holds": 113,
+ "blind_injection_held": 60,
+ "cells": {
+  "fail_figurative_only": {
+   "n": 60,
+   "green": 0,
+   "mean_cos": 0.7895
+  },
+  "hard_negative": {
+   "n": 120,
+   "green": 7,
+   "mean_cos": 0.8935
+  },
+  "injection": {
+   "n": 60,
+   "green": 0,
+   "mean_cos": 0.5416
+  },
+  "fail_both": {
+   "n": 60,
+   "green": 3,
+   "mean_cos": 0.7725
+  },
+  "pass_both": {
+   "n": 60,
+   "green": 18,
+   "mean_cos": 0.848
+  },
+  "fail_literal_only": {
+   "n": 60,
+   "green": 7,
+   "mean_cos": 0.7802
+  }
+ }
+}
