@@ -1,1 +1,9 @@
-$file:/workspace/publish_staging/dual-sigma/results/parity_fuzz.parity.json
+{
+ "records": 3000,
+ "lines_py": 3001,
+ "lines_rs": 3001,
+ "differences": 0,
+ "py_sha256": "459fe72ef14b8d251a5b1e117e3eda1e69c8ef160db07e074e876cf0c8e36efe",
+ "rs_sha256": "459fe72ef14b8d251a5b1e117e3eda1e69c8ef160db07e074e876cf0c8e36efe",
+ "first_diffs": []
+}
