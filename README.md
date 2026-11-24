@@ -56,3 +56,17 @@ The GitHub connector used for this publish accepts text only, and rejects a sing
 - `SUMMARY.pdf`
 - `docs/chart_dual_sigma.png`
 - `docs/summary_preview-1.png`
+
+## Restoring large and binary files
+
+Some large or binary files could not be stored as a single GitHub blob through the connector used to publish this repo. They are here as plain text.
+
+The table `tables/dual_sigma_tables.tsv` is split into `tables/dual_sigma_tables.tsv.part001` and later parts, cut at line boundaries. `SUMMARY.pdf`, `docs/chart_dual_sigma.png`, and `docs/summary_preview-1.png` are stored as base64 text in matching `*.b64` files.
+
+`BINARIES.sha256` lists the sha256 of each original file. To restore those originals, run:
+
+```
+python3 restore_binaries.py
+```
+
+That script uses only the Python standard library. It joins the parts, decodes the base64 files, writes the original paths, and checks each sha256.

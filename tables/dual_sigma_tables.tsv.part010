@@ -1,0 +1,554 @@
+A	m14196	aggression aggressioned aggressioning aggressions baste basted bastes basting batter battered battering batterred batterring batters beat beated beaten beating beatinged beatinging beatings beats belabor belabored belaboring belaborred belaborring belabors belabour belaboured belabouring belabours cane caned canes caning clobber clobbered clobbering clobberred clobberring clobbers either eithered eithering eitherred eitherring eithers flail flailed flailing flails flog floged flogged flogging flogginged flogginging floggings floging flogs hit hited hiting hits hitted hitting hittinged hittinging hittings kayo kayoed kayoing kayos knockout knockouted knockouting knockouts lam lambast lambaste lambasted lambastes lambasting lambasts lamed laming lammed lamming lams larrup larruped larruping larrupped larrupping larrups lash lashed lashes lashing lather lathered lathering latherred latherring lathers paddle paddled paddles paddling punishment punishmented punishmenting punishments slash slashed slashes slashing soak soaked soaking soaks spank spanked spanker spankered spankering spankerred spankerring spankers spanking spankinged spankinging spankings spanks strap straped straping strapped strapping straps subject subjected subjecting subjects thrash thrashed thrashes thrashing thrashinged thrashinging thrashings thresh threshed threshes threshing trounce trounced trounces trouncing trouncinged trouncinging trouncings welt welted welting welts whip whiped whiping whipped whipper whippered whippering whipperred whipperring whippers whipping whippinged whippinging whippings whips
+P	m14196	beat up|knock cold|knock out|pistol whip|rough up|strong arm|strong armer
+I	m14197	work party	n	wordnet	work
+Y	m14197	gang.n.03
+A	m14197	crew crewed crewing crews detail detailed detailing details gang ganged ganging gangs group grouped grouping groups organized organizedded organizedding organizeded organizeding organizeds shift shifted shifting shifts unit united uniting unitize unitized unitizes unitizing units unitted unitting workmen workmened workmening workmenned workmenning workmens
+P	m14197	chain gang|ground crew|ground service crew|road gang|section gang|social unit|stage crew
+I	m14198	work permit	n	wordnet	work
+Y	m14198	working_papers.n.02
+A	m14198	countries countriesed countrieses countriesing document documented documenting documents employment employmented employmenting employments giving givinged givinging givings information informationed informationing informations instrument instrumented instrumenting instruments legal legaled legaling legalled legalling legals required requiredded requiredding requireded requireding requireds
+P	m14198	legal document|legal instrument|official document|work papers|working papers
+I	m14199	work shift	n	wordnet	work
+Y	m14199	shift.n.03
+A	m14199	during duringed duringing durings goed going gone gos hours hoursed hourses hoursing period perioded perioding periods spell spelled spelling spells spelt tour toured touring tours trick tricked tricking tricks turn turned turning turns watch watched watches watching
+P	m14199	day shift|duty period|evening shift|graveyard shift|night shift|split shift|swing shift
+I	m14200	work shy	as	wordnet	work
+Y	m14200	faineant.s.01
+A	m14200	disinclined disinclinedded disinclinedding disinclineded disinclineding disinclineds exertion exertioned exertioning exertions faineance faineanced faineances faineancing faineant faineanted faineanting faineants idle idled idleness idlenessed idlenesses idlenessing idles idling indolence indolenced indolences indolencing indolent indolented indolenting indolents lazied lazies laziness lazinessed lazinesses lazinessing lazy lazying otiose otiosed otioses otiosing slothful slothfuled slothfuling slothfulled slothfulling slothfulness slothfulnessed slothfulnesses slothfulnessing slothfuls
+I	m14201	work stoppage	n	wordnet	work
+Y	m14201	strike.n.01
+A	m14201	against againsted againsting againsts bad badded badding baded bading bads conditions conditionsed conditionses conditionsing group's group'sed group'ses group'sing low lowed lowing lows paid pay payed paying pays protest protested protesting protests refusal refusaled refusaling refusalled refusalling refusals strike striked strikes striking struck walkout walkouted walkouting walkouts
+P	m14201	job action|sit down|sit down strike|sympathetic strike|sympathy strike|walk out|wildcat strike
+I	m14202	work study	n	wordnet	work
+Y	m14202	time_and_motion_study.n.01
+A	m14202	analyses analysis analysised analysises analysising efficient efficiented efficienting efficients effort efforted efforting efforts examination examinationed examinationing examinations examine examined examines examining find finded finding finds found job jobbed jobbing jobed jobing jobs method methodded methodding methoded methoding methods scrutineer scrutineered scrutineering scrutineers scrutinied scrutinies scrutinise scrutinised scrutinises scrutinising scrutinize scrutinized scrutinizes scrutinizing scrutiny scrutinying specific specificed specificing specifics terms termsed termses termsing
+P	m14202	motion study|time and motion study|time motion study|time study
+I	m14203	work study program	n	wordnet	work
+Y	m14203	work-study_program.n.01
+A	m14203	alternate alternated alternates alternating between betweened betweening betweens didactical didacticaled didacticaling didacticalled didacticalling didacticals didactics didacticsed didacticses didacticsing educate educated educates educating education educational educationaled educationaling educationalist educationalisted educationalisting educationalists educationalled educationalling educationals educationed educationing educationist educationisted educationisting educationists educations employment employmented employmenting employments formal formaled formaling formalled formalling formals instruct instructed instructing instruction instructional instructionaled instructionaling instructionalled instructionalling instructionals instructioned instructioning instructions instructs paid paided paiding paids pedagogic pedagogical pedagogicaled pedagogicaling pedagogicalled pedagogicalling pedagogicals pedagogiced pedagogicing pedagogics pedagogied pedagogies pedagogy pedagogying plan planed planing planned planning plans students studentsed studentses studentsing taught teach teached teaches teaching teachinged teachinging teachings
+P	m14203	educational activity
+I	m14204	work through	v	wordnet	work worked working works wrought
+Y	m14204	work_through.v.01
+A	m14204	applied applies apply applying think thinked thinking thinks thoroughlied thoroughlies thoroughly thoroughlying thought worker workered workering workerred workerring workers
+P	m14204	go through|run through|whip through
+I	m14205	work time	n	wordnet	work
+Y	m14205	work_time.n.01
+A	m14205	day dayed daying days hours hoursed hourses hoursing overtime overtimed overtimes overtiming period perioded perioding periods required requiredded requiredding requireded requireding requireds turnaround turnarounded turnarounding turnarounds week weeked weeking weeks workweek workweeked workweeking workweeks
+P	m14205	face time|period of time|time period|turnaround time
+I	m14206	work to rule	n	wordnet	work
+Y	m14206	work_to_rule.n.01
+A	m14206	amount amounted amounting amounts doing doinged doinging doings job jobbed jobbing jobed jobing jobs minima minimum minimumed minimuming minimummed minimumming minimums onlied onlies only onlying required requiredded requiredding requireded requireding requireds rulesed ruleses rulesing slowdown slowdowned slowdowning slowdowns workers workersed workerses workersing workplace workplaced workplaces workplacing
+P	m14206	job action
+I	m14207	work up	v	wordnet	work worked working works wrought
+Y	m14207	build_up.v.02 build_up.v.04 work_out.v.01 work_up.v.02
+A	m14207	accumulate accumulated accumulates accumulating acquire acquired acquires acquiring bolster bolstered bolstering bolsterred bolsterring bolsters build builded building builds built develop developed developing development developmented developmenting developments developped developping develops elaborate elaborated elaborates elaborating elaboration elaborationed elaborationing elaborations geted geting getted getting gettinged gettinging gettings gotten grew grow growed growing grown grows increase increased increases increasing produce produced produces producing progress progressed progresses progressing steadilied steadilies steadily steadilying strengthen strengthened strengthening strengthenned strengthenning strengthens
+P	m14207	build up|get up|make grow|ramp up|work out
+I	m14208	worked up	as	wordnet	worked
+Y	m14208	aroused.s.06
+A	m14208	affected affectedded affectedding affecteded affecteding affecteds agitated agitatedded agitatedding agitateded agitateding agitateds aroused arousedded arousedding arouseded arouseding arouseds emotion emotional emotionaled emotionaling emotionalitied emotionalities emotionality emotionalitying emotionalled emotionalling emotionals emotioned emotioning emotions excessivelied excessivelies excessively excessivelying excited excitedded excitedding exciteded exciteding exciteds persons personsed personses personsing
+I	m14209	working capital	n	wordnet	working
+Y	m14209	capital.n.01
+A	m14209	assets assetsed assetses assetsing available availabled availables availabling capitalise capitalised capitalises capitalising capitalist capitalisted capitalisting capitalists capitalize capitalized capitalizes capitalizing further furthered furthering furtherred furtherring furthers production productioned productioning productions stock stocked stocking stocks
+P	m14209	operating capital|risk capital|seed money|venture capital|venture capitalist
+I	m14210	working class	as	wordnet	working
+Y	m14210	propertyless.s.01 wage-earning.s.01
+A	m14210	annual annualed annualing annuals fixed fixedded fixedding fixeded fixeding fixeds hourlied hourlies hourly hourlying industrial industrialed industrialing industrials laborers laborersed laborerses laborersing manual manualed manualing manuals propertyless propertylessed propertylesses propertylessing rather rathered rathering ratherred ratherring rathers salaries salariesed salarieses salariesing shaw shawed shawing shaws wages wagesed wageses wagesing work worked works wrought
+P	m14210	blue collar|low class|lower class|wage earning
+I	m14211	working day	n	wordnet	working
+Y	m14211	workday.n.01
+A	m14211	weekday weekdayed weekdaying weekdays work workday workdayed workdaying workdays worked works wrought
+P	m14211	work day
+I	m14212	working out	n	wordnet	working
+Y	m14212	elaboration.n.05
+A	m14212	detail detailed detailing details develop developed developing developinged developinging developings development developmented developmenting developments developped developping develops elaborate elaborated elaborates elaborating elaboration elaborationed elaborationing elaborations intricate intricated intricates intricating painstaking painstakinged painstakinging painstakings
+I	m14213	working papers	n	wordnet	working
+Y	m14213	working_papers.n.01
+A	m14213	activities activitiesed activitieses activitiesing carrying carryinged carryinging carryings involved involvedded involvedding involveded involveding involveds kept kepted kepting kepts project projected projecting projects record recorded recording records recordsed recordses recordsing
+I	m14214	working party	n	wordnet	working
+Y	m14214	working_group.n.01
+A	m14214	achieved achievedded achievedding achieveded achieveding achieveds expedition expeditioned expeditioning expeditions goal goaled goaling goals group grouped grouping groups temporarilied temporarilies temporarily temporarilying together togethered togethering togetherred togetherring togethers unit united uniting unitize unitized unitizes unitizing units unitted unitting until untiled untiling untilled untilling untils
+P	m14214	social unit|working group
+I	m14215	working principle	n	wordnet	working
+Y	m14215	working_principle.n.01
+A	m14215	adequate adequated adequates adequating permit permited permiting permits permitted permitting regulate regulated regulates regulating regulation regulationed regulationing regulations rule ruled rules ruling work worked works wrought
+P	m14215	working rule
+I	m14216	world bank	n	wordnet	world
+Y	m14216	international_bank_for_reconstruction_and_development.n.01
+A	m14216	agencied agencies agency agencying assist assisted assisting assists created createdded createdding createded createding createds developing developinged developinging developings governments governmentsed governmentses governmentsing guaranteed guaranteeded guaranteeding guaranteeds ibrd ibrded ibrding ibrds loans loansed loanses loansing member membered membering memberred memberring members nations nationsed nationses nationsing united unitedded unitedding uniteded uniteding uniteds
+P	m14216	international bank for reconstruction and development|un agency|united nations agency
+I	m14217	world class	as	wordnet	world
+Y	m14217	first.s.04
+A	m14217	above aboved aboves aboving best bested besting bests first firsted firsting firsts foremost foremosted foremosting foremosts ranking rankinged rankinging rankings
+I	m14218	world council of churches	n	wordnet	world
+Y	m14218	world_council_of_churches.n.01
+A	m14218	cooperation cooperationed cooperationing cooperations eastern easterned easterning easterns ecumenical ecumenicaled ecumenicaling ecumenicalled ecumenicalling ecumenicals intended intendedded intendedding intendeded intendeding intendeds matters mattersed matterses mattersing organization organizationed organizationing organizations promote promoted promotes promoting protestant protestanted protestanting protestants religious religioused religiouses religiousing secular seculared secularing secularred secularring seculars unitied unities unity unitying
+P	m14218	world council
+I	m14219	world cup	n	wordnet	world
+Y	m14219	world_cup.n.01
+A	m14219	between betweened betweening betweens champion championed championing champions determine determined determines determining everied everies every everying four foured fouring fours held helded helding helds national nationaled nationaling nationalled nationalling nationals soccer soccered soccering soccerred soccerring soccers teams teamsed teamses teamsing tournament tournamented tournamenting tournaments tourney tourneyed tourneying tourneys years yearsed yearses yearsing
+I	m14220	world power	n	wordnet	world
+Y	m14220	world_power.n.01
+A	m14220	commonwealth commonwealthed commonwealthing commonwealths countried countries country countrying enough enoughed enoughing enoughs events eventsed eventses eventsing hegemon hegemoned hegemoning hegemonned hegemonning hegemons influence influenced influences influencing land landed landing lands nation nationed nationing nations powerful powerfuled powerfuling powerfulled powerfulling powerfuls stated states stating superpower superpowered superpowering superpowerred superpowerring superpowers throughout throughouted throughouting throughouts
+P	m14220	body politic|great power|major power|res publica
+I	m14221	world premiere	n	wordnet	world
+Y	m14221	world_premiere.n.01
+A	m14221	anywhere anywhered anywheres anywhering dramatic dramaticed dramaticing dramatics first firsted firsting firsts music musical musicaled musicaling musicalled musicalling musicals musiced musicing musics perform performance performanced performances performancing performed performing performs public publiced publicing publics work worked working works wrought
+P	m14221	public presentation
+I	m14222	world shaking	as	wordnet	world
+Y	m14222	earthshaking.s.02
+A	m14222	affect affected affecting affects earthshaking earthshakinged earthshakinging earthshakings importance importanced importances importancing important importanted importanting importants significance significanced significances significancing significant significanted significanting significants sufficientlied sufficientlies sufficiently sufficientlying whole wholed wholes wholing
+P	m14222	world shattering
+I	m14223	world shattering	as	wordnet	world
+Y	m14223	earthshaking.s.02
+A	m14223	affect affected affecting affects earthshaking earthshakinged earthshakinging earthshakings importance importanced importances importancing important importanted importanting importants significance significanced significances significancing significant significanted significanting significants sufficientlied sufficientlies sufficiently sufficientlying whole wholed wholes wholing
+P	m14223	world shaking
+I	m14224	world weary	as	wordnet	world
+Y	m14224	bored.s.01
+A	m14224	bored boredded boredding boreded boreding boreds tired tiredded tiredding tireded tireding tiredness tirednessed tirednesses tirednessing tireds
+P	m14224	world weariness
+I	m14225	world wide	as	wordnet	world
+Y	m14225	cosmopolitan.s.01 global.s.01 worldwide.s.01
+A	m14225	applicabilitied applicabilities applicability applicabilitying christopher christophered christophering christopherred christopherring christophers comprehend comprehended comprehending comprehends comprehensive comprehensived comprehensiveness comprehensivenessed comprehensivenesses comprehensivenessing comprehensives comprehensiving cosmopolitan cosmopolitaned cosmopolitaning cosmopolitanned cosmopolitanning cosmopolitans earth earthed earthing earths ecumenical ecumenicaled ecumenicaling ecumenicalled ecumenicalling ecumenicals entire entired entires entiring extending extendinged extendinging extendings general generaled generaling generalled generalling generals global globaled globaling globalled globalling globals globe globed globes globing intercontinental intercontinentaled intercontinentaling intercontinentalled intercontinentalling intercontinentals international internationaled internationaling internationalitied internationalities internationality internationalitying internationalled internationalling internationals involving involvinged involvinging involvings limited limitedded limitedding limiteded limiteding limiteds morley morleyed morleying morleys oecumenical oecumenicaled oecumenicaling oecumenicalled oecumenicalling oecumenicals planetaried planetaries planetary planetarying provincial provincialed provincialing provincials scope scoped scopes scoping spanning spanninged spanninging spannings throughout throughouted throughouting throughouts universal universaled universaling universalitied universalities universality universalitying universalize universalized universalizes universalizing universalled universalling universals universe universed universes universing worldwide worldwided worldwides worldwiding
+I	m14226	worldly goods	n	wordnet	worldly
+Y	m14226	worldly_possessions.n.01
+A	m14226	belong belonged belonging belongings belongingsed belongingses belongingsing belongs held hold holded holding holdinged holdinging holdings holds possess possessed possesses possessing propertied properties property propertying
+P	m14226	worldly belongings|worldly possessions
+I	m14227	worldly minded	as	wordnet	worldly
+Y	m14227	materialistic.s.01
+A	m14227	marked markedded markedding markeded markeding markeds materialism materialismed materialisming materialisms materialistic materialisticed materialisticing materialistics mercenaried mercenaries mercenary mercenarying secular seculared secularing secularred secularring seculars temporal temporaled temporaling temporalled temporalling temporals world worlded worlding worldliness worldlinessed worldlinesses worldlinessing worlds
+I	m14228	worldly wise	as	wordnet	worldly
+Y	m14228	worldly-wise.s.01
+A	m14228	experienced experiencedded experiencedding experienceded experienceding experienceds sophisticated sophisticatedded sophisticatedding sophisticateded sophisticateding sophisticateds ways waysed wayses waysing world worlded worlding worlds
+I	m14229	worm eaten	as	wordnet	worm
+Y	m14229	vermiculate.s.01
+A	m14229	damaged damagedded damagedding damageded damageding damageds infested infestedded infestedding infesteded infesteding infesteds vermiculate vermiculated vermiculates vermiculating wormied wormies wormsed wormses wormsing wormy wormying worn worned worning worns
+I	m14230	worm shaped	as	wordnet	worm
+Y	m14230	vermiform.s.01
+A	m14230	cylindrical cylindricaled cylindricaling cylindricalled cylindricalling cylindricals formed formedded formedding formeded formeding formeds long longed longing longs resembling resemblinged resemblinging resemblings thin thined thining thinned thinning thins vermiform vermiformed vermiforming vermiforms
+I	m14231	worn out	as	wordnet	worn
+Y	m14231	exhausted.s.01 raddled.s.01
+A	m14231	completelied completelies completely completelying drained drainedded drainedding draineded draineding draineds effectiveness effectivenessed effectivenesses effectivenessing energied energies energy energying exhausted exhaustedded exhaustedding exhausteded exhausteding exhausteds extremelied extremelies extremely extremelying fagged faggedded faggedding faggeded faggeding faggeds fatigued fatigueded fatigueding fatigueds longer longered longering longerred longerring longers raddled raddledded raddledding raddleded raddleding raddleds spent spented spenting spents tired tiredded tiredding tireded tireding tiredness tirednessed tirednesses tirednessing tireds until untiled untiling untilled untilling untils useful usefuled usefuling usefulled usefulling usefuls
+P	m14231	dog tired|played out|washed out
+I	m14232	worship of heavenly bodies	n	wordnet	worship
+Y	m14232	astrolatry.n.01
+A	m14232	astrolatried astrolatries astrolatry astrolatrying planets planetsed planetses planetsing stars starsed starses starsing
+I	m14233	worship of man	n	wordnet	worship
+Y	m14233	anthropolatry.n.01
+A	m14233	anthropolatried anthropolatries anthropolatry anthropolatrying beings beingsed beingses beingsing cultism cultismed cultisming cultisms devote devoted devotes devoting devotion devotioned devotioning devotions human humaned humaning humanned humanning humans idolatried idolatries idolatrous idolatroused idolatrouses idolatrousing idolatry idolatrying veneration venerationed venerationing venerations
+I	m14234	would be	as	wordnet	would
+Y	m14234	manque.s.01
+A	m14234	ambition ambitioned ambitioning ambitions ambitious ambitioused ambitiouses ambitiousing ambitiousness ambitiousnessed ambitiousnesses ambitiousnessing frustrated frustratedded frustratedding frustrateded frustrateding frustrateds manque manqued manques manquing realizing realizinged realizinging realizings unfulfilled unfulfilledded unfulfilledding unfulfilleded unfulfilleding unfulfilleds
+I	m14235	wound up	as	wordnet	wound
+Y	m14235	aroused.s.03
+A	m14235	aroused arousedded arousedding arouseded arouseding arouseds brought broughted broughting broughts great greated greating greats tense tensed tenseness tensenessed tensenesses tensenessing tenses tensing tension tensioned tensioning tensions
+I	m14236	wrap up	v	wordnet	wrap wraped wraping wrapped wrapping wraps
+Y	m14236	cover.v.26 get_through.v.01 roll_up.v.06 wrap.v.01
+A	m14236	apparel appareled appareling apparelled apparelling apparels arrange arranged arranges arranging cere cered ceres cering clad clothe clothed clothes clothing clothinged clothinging clothings complete completed completelied completelies completely completelying completes completing completion completioned completioning completions cover covered covering coveringed coveringing coverings coverred coverring covers cylinder cylindered cylindering cylinderred cylinderring cylinders dress dressed dresser dressered dressering dresserred dresserring dressers dresses dressing dressinged dressinging dressings elements elementsed elementses elementsing enclothe enclothed enclothes enclothing finish finished finisher finishered finishering finisherred finisherring finishers finishes finishing finishinged finishinging finishings fold folded folding folds garb garbed garbing garbs garment garmented garmenting garments habilitate habilitated habilitates habilitating parcel parceled parceling parcellation parcellationed parcellationing parcellations parcelled parcelling parcels protection protectioned protectioning protections raiment raimented raimenting raiments roll rolled rolling rollinged rollinging rollings rolls shrinkwrap shrinkwraped shrinkwraping shrinkwrapped shrinkwrapping shrinkwraps shroud shrouded shrouding shrouds task tasked tasking tasks tog toged togged togging toging togs wrapper wrappered wrappering wrapperred wrapperring wrappers wrappinged wrappinging wrappings
+P	m14236	cap off|change surface|clear up|do up|finish off|finish up|fit out|get through|gift wrap|gift wrapping|mop up|polish off|roll up
+I	m14237	wrapped up	as	wordnet	wrapped
+Y	m14237	bound_up.s.02
+A	m14237	committed committedded committedding committeded committeding committedness committednessed committednesses committednessing committeds deeplied deeplies deeply deeplying devoted devotedded devotedding devoteded devoteding devoteds
+P	m14237	bound up
+I	m14238	wring from	v	wordnet	wring wringed wringing wrings wrung
+Y	m14238	extort.v.03
+A	m14238	difficult difficulted difficulting difficults extort extorted extorting extorts laborious laborioused laboriouses laboriousing obtain obtainable obtainabled obtainables obtainabling obtained obtaining obtainment obtainmented obtainmenting obtainments obtains obtention obtentioned obtentioning obtentions pried pries prise prised prises prising pry prying pryinged pryinging pryings
+I	m14239	wring out	v	wordnet	wring wringed wringing wrings wrung
+Y	m14239	wring_out.v.01
+A	m14239	compact compacted compacting compacts compress compressed compresses compressible compressibled compressibles compressibling compressing compressinged compressinging compressings compression compressioned compressioning compressions compressor compressored compressoring compressorred compressorring compressors constrict constricted constricting constriction constrictioned constrictioning constrictions constrictor constrictored constrictoring constrictorred constrictorring constrictors constricts contract contracted contracting contraction contractioned contractioning contractions contractor contractored contractoring contractorred contractorring contractors contracts contracture contractured contractures contracturing extract extracted extractible extractibled extractibles extractibling extracting extraction extractioned extractioning extractions extractor extractored extractoring extractorred extractorring extractors extracts liquid liquided liquiding liquids press pressed presses pressing pressinged pressinging pressings pull pulled pulling pulls squeeze squeezed squeezes squeezing squeezinged squeezinging squeezings
+P	m14239	draw out|pull out|pull up|squeeze out|take out
+I	m14240	wrinkle resistant	as	wordnet	wrinkle
+Y	m14240	creaseproof.a.01
+A	m14240	creaseproof creaseproofed creaseproofing creaseproofs easilied easilies easily easilying fabric fabriced fabricing fabrics wrinkleproof wrinkleproofed wrinkleproofing wrinkleproofs
+P	m14240	crease resistant
+I	m14241	writ large	as	wordnet	writ
+Y	m14241	writ_large.s.01
+A	m14241	obvious obvioused obviouses obviousing obviousness obviousnessed obviousnesses obviousnessing prominent prominented prominenting prominents
+I	m14242	writ of certiorari	n	wordnet	writ
+Y	m14242	certiorari.n.01
+A	m14242	case cased cases casing common commoned commoning commonned commonning commons court courted courting courts demanding demandinged demandinging demandings inferior inferiored inferioring inferiors issued issueded issueding issueds jurisdiction jurisdictioned jurisdictioning jurisdictions law lawed lawing laws record recorded recording records superior superiored superioring superiors
+P	m14242	judicial writ
+I	m14243	writ of detinue	n	wordnet	writ
+Y	m14243	writ_of_detinue.n.01
+A	m14243	detained detainedded detainedding detaineded detaineding detaineds goods goodsed goodses goodsing ordering orderinged orderinging orderings release released releases releasing unlawfullied unlawfullies unlawfully unlawfullying
+P	m14243	judicial writ
+I	m14244	writ of election	n	wordnet	writ
+Y	m14244	writ_of_election.n.01
+A	m14244	holding holdinged holdinging holdings ordering orderinged orderinging orderings
+P	m14244	judicial writ
+I	m14245	writ of error	n	wordnet	writ
+Y	m14245	writ_of_error.n.01
+A	m14245	appellate appellated appellates appellating court courted courting courts judicial judicialed judicialing judicials ordering orderinged orderinging orderings produce produced produces producing record recorded recording records recordsed recordses recordsing trial trialed trialing trials
+P	m14245	judicial writ
+I	m14246	writ of execution	n	wordnet	writ
+Y	m14246	execution.n.05
+A	m14246	attempts attemptsed attemptses attemptsing authorizing authorizinged authorizinging authorizings carried carries carry carrying court courted courting courts enforce enforced enforces enforcing granted grantedded grantedding granteded granteding granteds judgment judgmented judgmenting judgments order ordered ordering orderred orderring orders plaintiff plaintiffed plaintiffing plaintiffs routine routined routines routining sheriff sheriffed sheriffing sheriffs
+P	m14246	court order
+I	m14247	writ of habeas corpus	n	wordnet	writ
+Y	m14247	habeas_corpus.n.01
+A	m14247	before befored befores beforing brought broughted broughting broughts judge judged judges judging ordering orderinged orderinging orderings prisoner prisonered prisonering prisonerred prisonerring prisoners
+P	m14247	habeas corpus|judicial writ
+I	m14248	writ of mandamus	n	wordnet	writ
+Y	m14248	mandamus.n.01
+A	m14248	absolute absoluted absolutes absoluting commanding commandinged commandinging commandings discretion discretioned discretioning discretions dutied duties duty dutying extraordinaried extraordinaries extraordinary extraordinarying fail failed failing fails judicial judicialed judicialing judicials law lawed lawing laws matter mattered mattering matterred matterring matters ministerial ministerialed ministerialing ministerials official official's official'sed official'ses official'sing officialed officialing officials onlied onlies only onlying perform performed performing performs recognizes recognizesed recognizeses recognizesing remedies remediesed remedieses remediesing
+P	m14248	judicial writ
+I	m14249	writ of prohibition	n	wordnet	writ
+Y	m14249	writ_of_prohibition.n.01
+A	m14249	case cased cases casing court courted courting courts exercise exercised exercises exercising higher highered highering higherred higherring highers judicial judicialed judicialing judicials jurisdiction jurisdictioned jurisdictioning jurisdictions lower lowered lowering lowerred lowerring lowers ordering orderinged orderinging orderings
+P	m14249	judicial writ
+I	m14250	writ of right	n	wordnet	writ
+Y	m14250	writ_of_right.n.01
+A	m14250	land landed landing lands ordering orderinged orderinging orderings owner ownered ownering ownerred ownerring owners restored restoredded restoredding restoreded restoreding restoreds rightful rightfuled rightfuling rightfulled rightfulling rightfuls
+P	m14250	judicial writ
+I	m14251	write about	v	wordnet	write writed writes writing written wrote
+Y	m14251	write_on.v.01
+A	m14251	compose composed composes composing composition compositioned compositioning compositions indite indited indites inditing pen pened pening penned penning penninged penninging pennings pens pent topic topiced topicing topics writer writered writering writerred writerring writers writinged writinging writings
+P	m14251	write of|write on
+I	m14252	write copy	v	wordnet	write writed writes writing written wrote
+Y	m14252	write_copy.v.01
+A	m14252	commercial commercialed commercialing commercials compose composed composes composing composition compositioned compositioning compositions indite indited indites inditing pen pened pening penned penning penninged penninging pennings pens pent publications publicationsed publicationses publicationsing writer writered writering writerred writerring writers writinged writinging writings
+I	m14253	write down	v	wordnet	write writed writes writing written wrote
+Y	m14253	expense.v.01 write_down.v.01
+A	m14253	compositions compositionsed compositionses compositionsing depreciate depreciated depreciates depreciating depreciation depreciationed depreciationing depreciations depreciative depreciatived depreciatives depreciativing depreciatoried depreciatories depreciatory depreciatorying estimated estimatedded estimatedding estimateded estimateding estimateds expense expensed expenses expensing musical musicaled musicaling musicalled musicalling musicals notate notated notates notating notation notationed notationing notations note noted notes noting reduce reduced reduces reducing texts textsed textses textsing transcribe transcribed transcriber transcribered transcribering transcriberred transcriberring transcribers transcribes transcribing transcription transcriptioned transcriptioning transcriptions value valued values valuing writer writered writering writerred writerring writers writinged writinging writings
+P	m14253	dash down|dash off|get down|put down|set down|take down|write off
+I	m14254	write in	v	wordnet	write writed writes writing written wrote
+Y	m14254	write_in.v.01 write_in.v.02
+A	m14254	appear appeared appearing appears ballot balloted balloting ballots ballotted ballotting cast casted casting casts inserting insertinged insertinging insertings name named names naming organization organizationed organizationing organizations vote voted voter votered votering voterred voterring voters votes voting votinged votinging votings writer writered writering writerred writerring writers writinged writinging writings
+I	m14255	write in code	v	wordnet	write writed writes writing written wrote
+Y	m14255	code.v.02
+A	m14255	cipher ciphered ciphering cipherred cipherring ciphers coder codered codering coderred coderring coders codinged codinging codings convert converted converting converts cypher cyphered cyphering cypherred cypherring cyphers encipher enciphered enciphering encipherred encipherring enciphers encode encoded encodes encoding encodinged encodinging encodings encrypt encrypted encrypting encryption encryptioned encryptioning encryptions encrypts inscribe inscribed inscribes inscribing language languaged languages languaging ordinaried ordinaries ordinary ordinarying
+I	m14256	write of	v	wordnet	write writed writes writing written wrote
+Y	m14256	write_on.v.01
+A	m14256	compose composed composes composing composition compositioned compositioning compositions indite indited indites inditing pen pened pening penned penning penninged penninging pennings pens pent topic topiced topicing topics writer writered writering writerred writerring writers writinged writinging writings
+P	m14256	write about|write on
+I	m14257	write off	v	wordnet	write writed writes writing written wrote
+Y	m14257	expense.v.01 write_off.v.01 write_off.v.02 write_off.v.03
+A	m14257	acknowledge acknowledgeable acknowledgeabled acknowledgeables acknowledgeabling acknowledged acknowledges acknowledging acknowledgment acknowledgmented acknowledgmenting acknowledgments admission admissioned admissioning admissions admit admited admiting admits admitted admitting cancel canceled canceling cancellation cancellationed cancellationing cancellations cancelled cancelling cancels compose composed composes composing composition compositioned compositioning compositions concede conceded concedes conceding debt debted debting debts depreciate depreciated depreciates depreciating depreciation depreciationed depreciationing depreciations depreciative depreciatived depreciatives depreciativing depreciatoried depreciatories depreciatory depreciatorying estimated estimatedded estimatedding estimateded estimateding estimateds expense expensed expenses expensing fluentlied fluentlies fluently fluentlying hesitation hesitationed hesitationing hesitations indite indited indites inditing loss lossed losses lossing pen pened pening penned penning penninged penninging pennings pens pent reduce reduced reduces reducing value valued values valuing without withouted withouting withouts worthlessness worthlessnessed worthlessnesses worthlessnessing writer writered writering writerred writerring writers writinged writinging writings
+P	m14257	strike down|write down
+I	m14258	write on	v	wordnet	write writed writes writing written wrote
+Y	m14258	write_on.v.01
+A	m14258	compose composed composes composing composition compositioned compositioning compositions indite indited indites inditing pen pened pening penned penning penninged penninging pennings pens pent topic topiced topicing topics writer writered writering writerred writerring writers writinged writinging writings
+P	m14258	write about|write of
+I	m14259	write out	v	wordnet	write writed writes writing written wrote
+Y	m14259	write_out.v.01 write_out.v.02
+A	m14259	check checked checking checks complete completed completes completing compose composed composes composing composition compositioned compositioning compositions cut cuted cuting cuts cutted cutting indite indited indites inditing issue issued issues issuing pen pened pening penned penning penninged penninging pennings pens pent writer writered writering writerred writerring writers writinged writinging writings
+P	m14259	make out|write up
+I	m14260	write up	nv	wordnet	write writed writes writing written wrote
+Y	m14260	report.n.03 write_out.v.01 write_up.v.01
+A	m14260	account accounted accounting accounts bring bringed bringing brings brought bulletin bulletined bulletining bulletinned bulletinning bulletins communique communiqued communiques communiquing complete completed completes completing compose composed composes composing composition compositioned compositioning compositions condemnation condemnationed condemnationing condemnations despatch despatched despatches despatching dispatch dispatched dispatches dispatching exclusive exclusived exclusives exclusiving indite indited indites inditing news newsed newses newsing newsletter newslettered newslettering newsletterred newsletterring newsletters newssheet newssheeted newssheeting newssheets notice noticed notices noticing pen pened pening penned penning penninged penninging pennings pens pent praise praised praises praising public publiced publicing publics report reported reporting reports scoop scooped scooping scoops short shorted shorting shorts storied stories story storying writer writered writering writerred writerring writers writinged writinging writings
+P	m14260	news report|urban legend|write out
+I	m14261	writing system	n	wordnet	writing
+Y	m14261	orthography.n.01
+A	m14261	boustrophedon boustrophedoned boustrophedonic boustrophedoniced boustrophedonicing boustrophedonics boustrophedoning boustrophedonned boustrophedonning boustrophedons hieroglyph hieroglyphed hieroglyphic hieroglyphical hieroglyphicaled hieroglyphicaling hieroglyphicalled hieroglyphicalling hieroglyphicals hieroglyphiced hieroglyphicing hieroglyphics hieroglyphing hieroglyphs ideographied ideographies ideography ideographying language languaged languages languaging method methodded methodding methoded methoding methods orthographic orthographiced orthographicing orthographics orthographied orthographies orthography orthographying printed printedded printedding printeded printeding printeds representing representinged representinging representings script scripted scripting scripts sounds soundsed soundses soundsing spell spelled spelling spellinged spellinging spellings spells spelt symbols symbolsed symbolses symbolsing written writtened writtening writtenned writtenning writtens
+P	m14261	alphabetic script|alphabetic writing|picture writing|point system
+I	m14262	written account	n	wordnet	written
+Y	m14262	written_record.n.01
+A	m14262	blotter blottered blottering blotterred blotterring blotters casebook casebooked casebooking casebooks chronological chronologicaled chronologicaling chronologicalled chronologicalling chronologicals chronologied chronologies chronologize chronologized chronologizes chronologizing chronology chronologying copied copies copy copying copyist copyisted copyisting copyists document documented documenting documents dossier dossiered dossiering dossiers enter entered entering enterred enterring enters entried entries entry entrying events eventsed eventses eventsing facts factsed factses factsing knowledge knowledged knowledges knowledging log loged logged logging loging logs minutes minutesed minuteses minutesing note noted notes noting preserving preservinged preservinging preservings proceedings proceedingsed proceedingses proceedingsing record recorded recording records register registered registering registerred registerring registers registried registries registry registrying rendering renderinged renderinging renderings timecard timecarded timecarding timecards transactions transactionsed transactionses transactionsing transcript transcripted transcripting transcripts translate translated translates translating translation translationed translationing translations version versioned versioning versions worksheet worksheeted worksheeting worksheets
+P	m14262	charge sheet|day book|interlingual rendition|minute book|paper trail|police blotter|rap sheet|statute book|time sheet|written record
+I	m14263	written document	n	wordnet	written
+Y	m14263	document.n.01
+A	m14263	ballot balloted balloting ballots ballotted ballotting brevet breveted breveting brevets brevetted brevetting capitulation capitulationed capitulationing capitulations certificate certificated certificates certificating certification certificationed certificationing certifications certified certifies certify certifying charter chartered chartering charterred charterring charters confess confessed confesses confessing confession confessioned confessioning confessions copyright copyrighted copyrighting copyrights credential credentialed credentialing credentials credentialsed credentialses credentialsing declaration declarationed declarationing declarations documental documentaled documentaling documentalled documentalling documentals documentaried documentaries documentary documentarying enclose enclosed encloses enclosing enclosure enclosured enclosures enclosuring formed forming forms inclosure inclosured inclosures inclosuring information informationed informationing informations instrument instrumented instrumenting instruments nature natured natures naturing official officialed officialing officials papers papersed paperses papersing papyri papyrus papyrused papyruses papyrusing patent patented patenting patents platform platformed platforming platforms program programed programing programmed programmes programming programs provides providesed provideses providesing report reported reporting reports resign resignation resignationed resignationing resignations resigned resigning resigns resolution resolutioned resolutioning resolutions resolve resolved resolves resolving source sourced sources sourcing specification specificationed specificationing specifications studied studies study studying voucher vouchered vouchering voucherred voucherring vouchers writing writinged writinging writings
+P	m14263	commercial document|commercial instrument|legal document|legal instrument|official document|patent of invention|piece of writing|political platform|political program|right of first publication|written material|written report
+I	m14264	written language	n	wordnet	written
+Y	m14264	written_communication.n.01
+A	m14264	code coded codes codification codificationed codificationing codifications codified codifies codify codifying coding communicate communicated communicates communicating communication communicational communicationaled communicationaling communicationalled communicationalling communicationals communicationed communicationing communications correspond corresponded correspondence correspondenced correspondences correspondencing corresponding corresponds either eithered eithering eitherred eitherring eithers handwritten handwrittened handwrittening handwrittenned handwrittenning handwrittens means meansed meanses meansing prescription prescriptioned prescriptioning prescriptions print printed printedded printedding printeded printeding printeds printing prints reading readinged readinging readings symbols symbolsed symbolses symbolsing transcribe transcribed transcribes transcribing transcription transcriptioned transcriptioning transcriptions writing writinged writinging writings
+P	m14264	black and white|piece of writing|reading material|written communication|written material|written text
+I	m14265	written material	n	wordnet	written
+Y	m14265	writing.n.02
+A	m14265	adaptation adaptationed adaptationing adaptations alphabet alphabeted alphabeting alphabets alphabetted alphabetting anything anythinged anythinging anythings autograph autographed autographing autographs bowdlerisation bowdlerisationed bowdlerisationing bowdlerisations bowdlerise bowdlerised bowdlerises bowdlerising bowdlerization bowdlerizationed bowdlerizationing bowdlerizations bowdlerize bowdlerized bowdlerizes bowdlerizing considered consideredded consideredding considereded considereding considereds critical criticaled criticaling criticalled criticalling criticals criticise criticised criticises criticising criticism criticismed criticisming criticisms cryptogram cryptogramed cryptograming cryptogrammed cryptogramming cryptograms cryptograph cryptographed cryptographing cryptographs diaried diaries diarist diaristed diaristing diarists diary diarying dithyramb dithyrambed dithyrambing dithyrambs document documental documentaled documentaling documentalled documentalling documentals documentaried documentaries documentary documentarying documented documenting documents edit edited editing editinged editinging editings edits editted editting effect effected effecting effects essay essayed essaying essayist essayisted essayisting essayists essays expressed expressedded expressedding expresseded expresseding expresseds inscription inscriptioned inscriptioning inscriptions journal journaled journaling journalled journalling journals lettering letteringed letteringing letterings letters lettersed letterses lettersing literaried literaries literary literarying literature literatured literatures literaturing manuscript manuscripted manuscripting manuscripts matter mattered mattering matterred matterring matters ms msed mses msing papers papersed paperses papersing paragraph paragraphed paragrapher paragraphered paragraphering paragrapherred paragrapherring paragraphers paragraphing paragraphs plagiarise plagiarised plagiarises plagiarising plagiarism plagiarismed plagiarisming plagiarisms plagiarist plagiaristed plagiaristic plagiaristiced plagiaristicing plagiaristics plagiaristing plagiarists plagiarize plagiarized plagiarizes plagiarizing point pointed pointing points redact redacted redacting redaction redactioned redactioning redactions redacts rescript rescripted rescripting rescripts revision revisioned revisioning revisions rewrite rewrited rewrites rewriting rewritten rewrote screed screeded screeding screeds section sectioned sectioning sections style styled styles styling subdivision subdivisioned subdivisioning subdivisions title titled titles titling transcript transcripted transcripting transcripts treatise treatised treatises treatising version versioned versioning versions view viewed viewing views work worked working works writer writered writering writerred writerring writers writing writinged writinging writings wrought
+P	m14265	black and white|dramatic composition|dramatic work|literary composition|literary criticism|literary work|piece of writing|religious text|religious writing|sacred text|sacred writing|secret writing|written communication|written document|written language
+I	m14266	written report	n	wordnet	written
+Y	m14266	report.n.01
+A	m14266	assay assayed assaying assays describing describinged describinging describings document documental documentaled documentaling documentalled documentalling documentals documentaried documentaries documentary documentarying documented documenting documents findings findingsed findingses findingsing group grouped grouping groups individual individualed individualing individuals papers papersed paperses papersing studied studies study studying
+P	m14266	blue book|case study|green paper|medical report|position paper|progress report|white book|white paper|written document
+I	m14267	written text	n	wordnet	written
+Y	m14267	transcription.n.01
+A	m14267	another anothered anothering anotherred anotherring anothers copied copieded copieding copieds dictation dictationed dictationing dictations media medium mediumed mediuming mediums transcribe transcribed transcribes transcribing transcription transcriptioned transcriptioning transcriptions transliterate transliterated transliterates transliterating transliteration transliterationed transliterationing transliterations typewritten typewrittened typewrittening typewrittenned typewrittenning typewrittens version versioned versioning versions
+P	m14267	black and white|phonetic transcription|written communication|written language
+I	m14268	wrong side out	as	wordnet	wrong
+Y	m14268	wrong-side-out.s.01
+A	m14268	inside insided insides insiding outside outsided outsides outsiding surface surfaced surfaces surfacing turned turnedded turnedding turneded turneding turneds
+P	m14268	inside out
+I	m14269	wrong un	n	wordnet	wrong
+Y	m14269	googly.n.01
+A	m14269	actuallied actuallies actually actuallying ball balled balling balls bosie bosied bosies bosiing bowled bowledded bowledding bowleded bowleding bowleds bowling bowlinged bowlinging bowlings break breaked breaking breaks breaksed breakses breaksing broke broken cricket cricketed cricketing crickets cricketted cricketting googlied googlies googly googlying opposite opposited opposites oppositing
+P	m14269	bosie ball
+I	m14270	wrongful conduct	n	wordnet	wrongful
+Y	m14270	wrongdoing.n.02
+A	m14270	active actived actives activing activitied activities activity activitying brutalisation brutalisationed brutalisationing brutalisations brutalise brutalised brutalises brutalising brutalization brutalizationed brutalizationing brutalizations brutalize brutalized brutalizes brutalizing champertied champerties champerty champertying civil civiled civiling civilled civilling civils dereliction derelictioned derelictioning derelictions dishonestied dishonesties dishonesty dishonestying encroach encroached encroaches encroaching encroachment encroachmented encroachmenting encroachments evildoing evildoinged evildoinging evildoings falsification falsificationed falsificationing falsifications falsified falsifies falsify falsifying inflict inflicted inflicting infliction inflictioned inflictioning inflictions inflicts infringe infringed infringement infringemented infringementing infringements infringes infringing iniquitied iniquities iniquity iniquitying injure injured injures injuried injuries injuring injury injurying injustice injusticed injustices injusticing intrude intruded intrudes intruding intrusion intrusioned intrusioning intrusions knaveried knaveries knavery knaverying law lawed lawing laws maintenance maintenanced maintenances maintenancing malfeasance malfeasanced malfeasances malfeasancing malpractice malpracticed malpractices malpracticing malversate malversated malversates malversating malversation malversationed malversationing malversations misbehave misbehaved misbehaves misbehaving misbehavior misbehaviored misbehavioring misbehaviors misbehaviour misbehavioured misbehaviouring misbehaviours misconduct misconducted misconducting misconducts misdeed misdeeded misdeeding misdeeds misfeasance misfeasanced misfeasances misfeasancing misrepresentation misrepresentationed misrepresentationing misrepresentations moral moraled moraling moralled moralling morals perversion perversioned perversioning perversions pervert perverted perverting perverts shabbied shabbies shabbiness shabbinessed shabbinesses shabbinessing shabby shabbying tort torted torting torts transgress transgressed transgresses transgressesed transgresseses transgressesing transgressing transgression transgressioned transgressioning transgressions trespass trespassed trespasses trespassing unfair unfaired unfairing unfairness unfairnessed unfairnesses unfairnessing unfairs usurpation usurpationed usurpationing usurpations violate violated violates violating violation violationed violationing violations wrongdoing wrongdoinged wrongdoinging wrongdoings
+P	m14270	actus reus|civil wrong|criminal maintenance
+I	m14271	wu dialect	n	wordnet	wu
+Y	m14271	wu.n.01
+A	m14271	chinese chinesed chineses chinesing delta deltaed deltaing deltas spoken spokened spokening spokenned spokenning spokens yangtze yangtzed yangtzes yangtzing
+P	m14271	shanghai dialect
+I	m14272	x linked	as	wordnet	x
+Y	m14272	x-linked.a.01
+A	m14272	carried carrieded carrieding carrieds characteristics characteristicsed characteristicses characteristicsing chromosome chromosomed chromosomes chromosoming conditions conditionsed conditionses conditionsing genes genesed geneses genesing relating relatinged relatinging relatings
+I	m14273	x ray	nv	wordnet	x xed xes xing
+Y	m14273	x-ray.v.01 x-ray.v.02 x_ray.n.01
+A	m14273	electromagnetic electromagneticed electromagneticing electromagnetics electrons electronsed electronses electronsing examination examinationed examinationing examinations examine examined examiner examinered examinering examinerred examinerring examiners examines examining high highed highing highs photograph photographed photographer photographered photographering photographerred photographerring photographers photographing photographs produced producedded producedding produceded produceding produceds radiation radiationed radiationing radiations raysed rayses raysing saw see seeed seeing seen sees shoot shooted shooting shoots short shorted shorting shorts shot snap snaped snaping snapped snapping snaps solid solidded solidding solided soliding solids sped speed speeded speeding speeds strike striked strikes striking struck taking takinged takinging takings target targeted targeting targets targetted targetting wavelength wavelengthed wavelengthing wavelengths
+P	m14273	electromagnetic radiation|electromagnetic wave|ionizing radiation|nonparticulate radiation|roentgen ray|x radiation|x raying
+I	m14274	xanthoma disseminatum	n	wordnet	xanthoma
+Y	m14274	xanthoma_disseminatum.n.01
+A	m14274	adults adultsed adultses adultsing bodied bodies body bodying brownish brownished brownishes brownishing chronic chroniced chronicing chronics develop developed developing developped developping develops orange oranged oranges oranging papules papulesed papuleses papulesing rare rared rares raring surfaces surfacesed surfaceses surfacesing
+I	m14275	xanthoma multiplex	n	wordnet	xanthoma
+Y	m14275	xanthomatosis.n.01
+A	m14275	associated associatedded associatedding associateded associateding associateds disorder disordered disordering disorderred disorderring disorders elbows elbowsed elbowses elbowsing knees kneesed kneeses kneesing lipid lipidded lipidding lipided lipiding lipids metabolism metabolismed metabolisming metabolisms widespread widespreaded widespreading widespreads xanthomased xanthomases xanthomasing xanthomatosis xanthomatosised xanthomatosises xanthomatosising
+P	m14275	cholesterosis cutis|lipid granulomatosis|lipoid granulomatosis
+I	m14276	xeroderma pigmentosum	n	wordnet	xeroderma
+Y	m14276	xeroderma_pigmentosum.n.01
+A	m14276	autosomal autosomaled autosomaling autosomalled autosomalling autosomals breaks breaksed breakses breaksing cancers cancersed cancerses cancersing characterized characterizedded characterizedding characterizeded characterizeding characterizeds childhood childhooded childhooding childhoods chromosome chromosomed chromosomes chromosoming condition conditioned conditioning conditions defective defectived defectives defectiving dna dnaed dnaing dnas eruption eruptioned eruptioning eruptions exposed exposedded exposedding exposeded exposeding exposeds genetic geneticed geneticing genetics inherited inheritedded inheritedding inheriteded inheriteding inheriteds light lighted lighting lights likelied likelies likely likelying lit occurring occurringed occurringing occurrings photosensitivitied photosensitivities photosensitivity photosensitivitying processes processesed processeses processesing rare rared rares raring recessive recessived recessives recessiving repair repaired repairing repairs severe severed severes severing skin skined skining skinned skinning skins sunburn sunburned sunburning sunburns trait traited traiting traits ultraviolet ultravioleted ultravioleting ultraviolets ultravioletted ultravioletting xerodermia xerodermiaed xerodermiaing xerodermias
+I	m14277	xishuangbanna dai	n	wordnet	xishuangbanna
+Y	m14277	tai_lue.n.01
+A	m14277	branch branched branches branching languages languagesed languageses languagesing tai taied taiing tais
+P	m14277	tai lue
+I	m14278	y shaped	as	wordnet	y
+Y	m14278	y-shaped.s.01
+A	m14278	formed formedded formedding formeded formeding formeds letter lettered lettering letterred letterring letters
+I	m14279	y2k compliant	as	wordnet	y2k
+Y	m14279	y2k_compliant.s.01
+A	m14279	20th 20thed 20thing 20ths 21st 21sted 21sting 21sts accuratelied accuratelies accurately accuratelying between betweened betweening betweens centuries centuriesed centurieses centuriesing data dataed dataing datas date dated dates dating obedience obedienced obediences obediencing obedient obediented obedienting obedients obey obeyed obeying obeys prepared preparedded preparedding prepareded prepareding prepareds process processed processes processing
+I	m14280	yack away	v	wordnet	yack yacked yacking yacks
+Y	m14280	yack.v.01
+A	m14280	incessantlied incessantlies incessantly incessantlying jaw jawed jawing jaws mouth mouthed mouthing mouths speak speaked speaker speakered speakering speakerred speakerring speakers speaking speakinged speakinging speakings speaks speech speeched speeches speeching spoke spoken talk talked talker talkered talkering talkerred talkerring talkers talking talks tiresomelied tiresomelies tiresomely tiresomelying utter utterable utterabled utterables utterabling utterance utteranced utterances utterancing uttered utterer utterered utterering uttererred uttererring utterers uttering utterred utterring utters verbalisation verbalisationed verbalisationing verbalisations verbalise verbalised verbalises verbalising verbalization verbalizationed verbalizationing verbalizations verbalize verbalized verbalizer verbalizered verbalizering verbalizerred verbalizerring verbalizers verbalizes verbalizing
+P	m14280	rattle on|yap away
+I	m14281	yap away	v	wordnet	yap yaped yaping yapped yapping yaps
+Y	m14281	yack.v.01
+A	m14281	incessantlied incessantlies incessantly incessantlying jaw jawed jawing jaws mouth mouthed mouthing mouths speak speaked speaker speakered speakering speakerred speakerring speakers speaking speakinged speakinging speakings speaks speech speeched speeches speeching spoke spoken talk talked talker talkered talkering talkerred talkerring talkers talking talks tiresomelied tiresomelies tiresomely tiresomelying utter utterable utterabled utterables utterabling utterance utteranced utterances utterancing uttered utterer utterered utterering uttererred uttererring utterers uttering utterred utterring utters verbalisation verbalisationed verbalisationing verbalisations verbalise verbalised verbalises verbalising verbalization verbalizationed verbalizationing verbalizations verbalize verbalized verbalizer verbalizered verbalizering verbalizerred verbalizerring verbalizers verbalizes verbalizing yack yacked yacking yacks
+P	m14281	rattle on|yack away
+I	m14282	yarn dye	v	wordnet	yarn yarned yarning yarns
+Y	m14282	impress.v.07
+A	m14282	before befored befores beforing dyeing dyeinged dyeinging dyeings dyer dyered dyering dyerred dyerring dyers fabric fabriced fabricing fabrics impress impressed impresses impressing spun spuned spuning spunned spunning spuns
+I	m14283	yarn spinning	as	wordnet	yarn
+Y	m14283	yarn-spinning.s.01
+A	m14283	communicate communicated communicates communicating communicative communicatived communicativeness communicativenessed communicativenesses communicativenessing communicatives communicativing communicatoried communicatories communicatory communicatorying happenings happeningsed happeningses happeningsing inclined inclinedded inclinedding inclineded inclineding inclineds incredible incredibled incredibles incredibling involved involvedded involvedding involveded involveding involveds long longed longing longs stories storiesed storieses storiesing tell telled telling tells told
+I	m14284	year around	as	wordnet	year
+Y	m14284	year-round.a.01
+A	m14284	continuing continuinged continuinging continuings operating operatinged operatinging operatings throughout throughouted throughouting throughouts
+P	m14284	year round
+I	m14285	year dot	n	wordnet	year
+Y	m14285	year_dot.n.01
+A	m14285	age aged ages aging ago agoed agoing agos anyone anyoned anyones anyoning can caned caning canned canning cans long longed longing longs remember remembered remembering rememberred rememberring remembers yearsed yearses yearsing
+P	m14285	long time
+I	m14286	year end	as	wordnet	year
+Y	m14286	year-end.s.01
+A	m14286	close closed closes closing closinged closinging closings fiscal fiscaled fiscaling fiscalled fiscalling fiscals place placed places placing taking takinged takinging takings
+I	m14287	year of grace	n	wordnet	year
+Y	m14287	year_of_grace.n.01
+A	m14287	christian christianed christianing christians era eraed eraing eras twelvemonth twelvemonthed twelvemonthing twelvemonths yearlied yearlies yearly yearlying yr yred yring yrs
+I	m14288	year round	as	wordnet	year
+Y	m14288	year-round.a.01
+A	m14288	continuing continuinged continuinging continuings operating operatinged operatinging operatings throughout throughouted throughouting throughouts
+P	m14288	year around
+I	m14289	yearned for	as	wordnet	yearned
+Y	m14289	longed-for.s.01
+A	m14289	desired desiredded desiredding desireded desireding desireds greatlied greatlies greatly greatlying wanted wantedded wantedding wanteded wanteding wanteds
+P	m14289	longed for|wished for
+I	m14290	yellow banded	as	wordnet	yellow
+Y	m14290	yellow-banded.s.01
+A	m14290	bands bandsed bandses bandsing having havinged havinging havings patterned patternedded patternedding patterneded patterneding patterneds
+I	m14291	yellow beige	as	wordnet	yellow
+Y	m14291	yellow-beige.s.01
+A	m14291	chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics tinged tingedded tingedding tingeded tingeding tingeds
+P	m14291	yellowish beige
+I	m14292	yellow bellied	as	wordnet	yellow
+Y	m14292	chicken.s.01
+A	m14292	chicken chickened chickenhearted chickenheartedded chickenheartedding chickenhearteded chickenhearteding chickenhearteds chickening chickenned chickenning chickens coward cowarded cowarding cowardlied cowardlies cowardliness cowardlinessed cowardlinesses cowardlinessing cowardly cowardlying cowards easilied easilies easily easilying fearful fearfuled fearfuling fearfulled fearfulling fearfulness fearfulnessed fearfulnesses fearfulnessing fearfuls frightened frightenedded frightenedding frighteneded frighteneding frighteneds
+P	m14292	lily livered|white livered
+I	m14293	yellow blue color blindness	n	wordnet	yellow
+Y	m14293	yellow-blue_dichromacy.n.01
+A	m14293	confusion confusioned confusioning confusions dichromacied dichromacies dichromacy dichromacying dichromasied dichromasies dichromasy dichromasying dichromatic dichromaticed dichromaticing dichromatics dichromatism dichromatismed dichromatisming dichromatisms dichromatopsia dichromatopsiaed dichromatopsiaing dichromatopsias dichromia dichromiaed dichromiaing dichromias tetartanopia tetartanopiaed tetartanopiaing tetartanopias tritanopia tritanopiaed tritanopiaing tritanopias tritanopic tritanopiced tritanopicing tritanopics
+P	m14293	blue blind|blue blindness|yellow blindness|yellow blue dichromacy
+I	m14294	yellow brown	as	wordnet	yellow
+Y	m14294	amber.s.01
+A	m14294	amber ambered ambering amberred amberring ambers brownish brownished brownishes brownishing chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics color colored coloring colorred colorring colors dark darked darking darks media medium mediumed mediuming mediums
+P	m14294	brownish yellow
+I	m14295	yellow dwarf	n	wordnet	yellow
+Y	m14295	yellow_dwarf.n.01
+A	m14295	characterized characterizedded characterizedding characterizeded characterizeding characterizeds diseases diseasesed diseaseses diseasesing leaves leavesed leaveses leavesing plants plantsed plantses plantsing several severaled severaling severalled severalling severals stunting stuntinged stuntinging stuntings virus virused viruses virusing yellowinged yellowinging yellowings
+P	m14295	onion yellow dwarf|plant disease|potato yellow dwarf|yellow dwarf of potato
+I	m14296	yellow dwarf of potato	n	wordnet	yellow
+Y	m14296	yellow_dwarf_of_potato.n.01
+A	m14296	disease diseased diseases diseasing plants plantsed plantses plantsing
+P	m14296	potato yellow dwarf|yellow dwarf
+I	m14297	yellow fever	n	wordnet	yellow
+Y	m14297	yellow_jack.n.01
+A	m14297	caused causedded causedding causeded causeding causeds flavivirus flavivirused flaviviruses flavivirusing mosquito mosquitoed mosquitoes mosquitoing mosquitos transmitted transmittedded transmittedding transmitteded transmitteding transmitteds
+P	m14297	black vomit|infectious disease|yellow jack
+I	m14298	yellow gray	as	wordnet	yellow
+Y	m14298	yellow-grey.s.01
+A	m14298	achromatic achromaticed achromaticing achromatics achromatize achromatized achromatizes achromatizing grey greyed greying greys neutral neutraled neutraling neutralled neutralling neutrals tinged tingedded tingedding tingeded tingeding tingeds
+P	m14298	yellow grey|yellowish gray|yellowish grey
+I	m14299	yellow green	as	wordnet	yellow
+Y	m14299	yellow-green.s.01
+A	m14299	between betweened betweening betweens chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics color colored coloring colorred colorring colors midway midwayed midwaying midways
+I	m14300	yellow grey	as	wordnet	yellow
+Y	m14300	yellow-grey.s.01
+A	m14300	achromatic achromaticed achromaticing achromatics achromatize achromatized achromatizes achromatizing neutral neutraled neutraling neutralled neutralling neutrals tinged tingedded tingedding tingeded tingeding tingeds
+P	m14300	yellow gray|yellowish gray|yellowish grey
+I	m14301	yellow jack	n	wordnet	yellow
+Y	m14301	yellow_jack.n.01
+A	m14301	caused causedded causedding causeded causeding causeds flavivirus flavivirused flaviviruses flavivirusing mosquito mosquitoed mosquitoes mosquitoing mosquitos transmitted transmittedded transmittedding transmitteded transmitteding transmitteds
+P	m14301	black vomit|infectious disease|yellow fever
+I	m14302	yellow marked	as	wordnet	yellow
+Y	m14302	yellow-marked.s.01
+A	m14302	having havinged havinging havings marks marksed markses marksing patterned patternedded patternedding patterneded patterneding patterneds
+I	m14303	yellow orange	as	wordnet	yellow
+Y	m14303	yellow-orange.s.01
+A	m14303	chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics tinged tingedded tingedding tingeded tingeding tingeds
+P	m14303	yellowish orange
+I	m14304	yellow pages	n	wordnet	yellow
+Y	m14304	yellow_pages.n.01
+A	m14304	advertising advertisinged advertisinging advertisings along alonged alonging alongs alphabeticallied alphabeticallies alphabetically alphabeticallying business businessed businesses businessing classified classifieded classifieding classifieds directoried directories directory directorying field fielded fielding fields listed listedded listedding listeded listeding listeds paper papered papering paperred paperring papers phonebook phonebooked phonebooking phonebooks printed printedded printedding printeded printeding printeds products productsed productses productsing section sectioned sectioning sections services servicesed serviceses servicesing telephone telephoned telephones telephoning
+P	m14304	phone book|telephone book|telephone directory
+I	m14305	yellow peril	n	wordnet	yellow
+Y	m14305	yellow_peril.n.01
+A	m14305	arise arised arisen arises arising arose asiatic asiaticed asiaticing asiatics civilization civilizationed civilizationing civilizations menace menaced menaces menacing peoples peoplesed peopleses peoplesing power powered powering powerred powerring powers said saided saiding saids threat threated threating threats western westerned westerning westerns
+I	m14306	yellow spot	n	wordnet	yellow
+Y	m14306	yellow_spot.n.01
+A	m14306	characterized characterizedded characterizedding characterizeded characterizeding characterizeds diseases diseasesed diseaseses diseasesing fungous fungoused fungouses fungousing leaves leavesed leaveses leavesing several severaled severaling severalled severalling severals spottinged spottinging spottings viral viraled viraling viralled viralling virals
+P	m14306	plant disease|tomato streak
+I	m14307	yellow spotted	as	wordnet	yellow
+Y	m14307	yellow-spotted.s.01
+A	m14307	having havinged havinging havings patterned patternedded patternedding patterneded patterneding patterneds spots spotsed spotses spotsing
+I	m14308	yellow striped	as	wordnet	yellow
+Y	m14308	yellow-striped.s.01
+A	m14308	having havinged havinging havings patterned patternedded patternedding patterneded patterneding patterneds stripes stripesed stripeses stripesing
+I	m14309	yellow tinged	as	wordnet	yellow
+Y	m14309	yellow-tinged.s.01
+A	m14309	chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics color colored coloring colorred colorring colors
+I	m14310	yellow tipped	as	wordnet	yellow
+Y	m14310	yellow-tipped.s.01
+A	m14310	flower flowered flowering flowerred flowerring flowers
+I	m14311	yellow white	as	wordnet	yellow
+Y	m14311	yellow-white.s.01
+A	m14311	achromatic achromaticed achromaticing achromatics achromatize achromatized achromatizes achromatizing neutral neutraled neutraling neutralled neutralling neutrals tinged tingedded tingedding tingeded tingeding tingeds
+P	m14311	yellowish white
+I	m14312	yellowish beige	as	wordnet	yellowish
+Y	m14312	yellow-beige.s.01
+A	m14312	chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics tinged tingedded tingedding tingeded tingeding tingeds yellow yellowed yellowing yellows
+P	m14312	yellow beige
+I	m14313	yellowish gray	as	wordnet	yellowish
+Y	m14313	yellow-grey.s.01
+A	m14313	achromatic achromaticed achromaticing achromatics achromatize achromatized achromatizes achromatizing grey greyed greying greys neutral neutraled neutraling neutralled neutralling neutrals tinged tingedded tingedding tingeded tingeding tingeds yellow yellowed yellowing yellows
+P	m14313	yellow gray|yellow grey|yellowish grey
+I	m14314	yellowish grey	as	wordnet	yellowish
+Y	m14314	yellow-grey.s.01
+A	m14314	achromatic achromaticed achromaticing achromatics achromatize achromatized achromatizes achromatizing neutral neutraled neutraling neutralled neutralling neutrals tinged tingedded tingedding tingeded tingeding tingeds yellow yellowed yellowing yellows
+P	m14314	yellow gray|yellow grey|yellowish gray
+I	m14315	yellowish orange	as	wordnet	yellowish
+Y	m14315	yellow-orange.s.01
+A	m14315	chroma chromaed chromaing chromas chromatic chromaticed chromaticing chromaticitied chromaticities chromaticity chromaticitying chromatics tinged tingedded tingedding tingeded tingeding tingeds yellow yellowed yellowing yellows
+P	m14315	yellow orange
+I	m14316	yellowish white	as	wordnet	yellowish
+Y	m14316	yellow-white.s.01
+A	m14316	achromatic achromaticed achromaticing achromatics achromatize achromatized achromatizes achromatizing neutral neutraled neutraling neutralled neutralling neutrals tinged tingedded tingedding tingeded tingeding tingeds yellow yellowed yellowing yellows
+P	m14316	yellow white
+I	m14317	yemeni fils	n	wordnet	yemeni
+Y	m14317	yemeni_fils.n.01
+A	m14317	rial rialed rialing rials worth worthed worthing worths
+P	m14317	yemeni monetary unit
+I	m14318	yemeni rial	n	wordnet	yemeni
+Y	m14318	yemeni_rial.n.01
+A	m14318	basic basiced basicing basics equal equaled equaling equalled equalling equals fils filsed filses filsing money moneyed moneying moneys unit united uniting units unitted unitting yemen yemened yemening yemenned yemenning yemens
+P	m14318	yemeni monetary unit
+I	m14319	yield up	v	wordnet	yield yielded yielding yields
+Y	m14319	yield_up.v.01
+A	m14319	cede ceded cedes ceding cession cessioned cessioning cessions deliver delivered delivering deliverred deliverring delivers force forced forces forcing pressure pressured pressures pressuring result resulted resulting results surrender surrendered surrenderer surrenderered surrenderering surrendererred surrendererring surrenderers surrendering surrenderred surrenderring surrenders
+P	m14319	give up
+I	m14320	yokel like	as	wordnet	yokel
+Y	m14320	yokel-like.s.01
+A	m14320	ignorant ignoranted ignoranting ignorants inhabitants inhabitantsed inhabitantses inhabitantsing proverbial proverbialed proverbialing proverbials rural ruraled ruraling ruralled ruralling rurals stupid stupidded stupidding stupided stupiding stupiditied stupidities stupidity stupiditying stupids
+I	m14321	yom kippur	n	wordnet	yom
+Y	m14321	yom_kippur.n.01
+A	m14321	10th 10thed 10thing 10ths calendar calendared calendaring calendarred calendarring calendars day dayed daying days fast fasted fasting fasts jewish jewished jewishes jewishing judaism judaismed judaisming judaisms law lawed lawing laws major majored majoring majorred majorring majors mosaic mosaiced mosaicing mosaics observance observanced observances observancing requirements requirementsed requirementses requirementsing solemn solemned solemning solemns tishri tishried tishriing tishris
+P	m14321	day of atonement|high holiday|high holy day|major fast day
+I	m14322	you bet	r	wordnet	you
+Y	m14322	and_how.r.01
+A	m14322	agreement agreemented agreementing agreements emphatic emphaticed emphaticing emphatics expression expressioned expressioning expressions
+P	m14322	and how|you said it
+I	m14323	you said it	r	wordnet	you
+Y	m14323	and_how.r.01
+A	m14323	agreement agreemented agreementing agreements emphatic emphaticed emphaticing emphatics expression expressioned expressioning expressions
+P	m14323	and how|you bet
+I	m14324	young bearing	as	wordnet	young
+Y	m14324	egg-producing.s.01
+A	m14324	capable capabled capables capabling eggs eggsed eggses eggsing female femaled femaleness femalenessed femalenesses femalenessing females femaling offspring offspringed offspringing offsprings producing producinged producinging producings
+P	m14324	egg producing
+I	m14325	young begetting	as	wordnet	young
+Y	m14325	young-begetting.s.01
+A	m14325	capable capabled capables capabling fathering fatheringed fatheringing fatherings male maled maleness malenessed malenesses malenessing males maling offspring offspringed offspringing offsprings
+I	m14326	youth culture	n	wordnet	youth
+Y	m14326	youth_culture.n.01
+A	m14326	adults adultsed adultses adultsing class classed classes classing coevals coevalsed coevalses coevalsing considered consideredded consideredding considereded considereding considereds contemporaries contemporariesed contemporarieses contemporariesing cultural culturaled culturaling culturalled culturalling culturals generation generational generationaled generationaling generationalled generationalling generationals generationed generationing generations subculture subcultured subcultures subculturing unit united uniting units unitted unitting young younged younging youngs
+P	m14326	hip hop|youth subculture
+I	m14327	yue dialect	n	wordnet	yue
+Y	m14327	yue.n.01
+A	m14327	canton cantoned cantonese cantonesed cantoneses cantonesing cantoning cantonned cantonning cantons china chinaed chinaing chinas chinese chinesed chineses chinesing elsewhere elsewhered elsewheres elsewhering hong honged honging hongs kong konged konging kongs neighboring neighboringed neighboringing neighborings outside outsided outsides outsiding provinces provincesed provinceses provincesing spoken spokened spokening spokenned spokenning spokens
+P	m14327	cantonese dialect
+I	m14328	yugoslavian dinar	n	wordnet	yugoslavian
+Y	m14328	yugoslavian_dinar.n.01
+A	m14328	basic basiced basicing basics money moneyed moneying moneys unit united uniting units unitted unitting yugoslavia yugoslaviaed yugoslaviaing yugoslavias
+P	m14328	yugoslavian monetary unit
+I	m14329	zambian kwacha	n	wordnet	zambian
+Y	m14329	zambian_kwacha.n.01
+A	m14329	basic basiced basicing basics money moneyed moneying moneys unit united uniting units unitted unitting zambia zambiaed zambiaing zambias
+P	m14329	zambian monetary unit
+I	m14330	zero in	v	v3_wiktionary_idioms,wordnet	zero zeroed zeroing zeros
+Y	m14330	range_in.v.01 zero.v.02
+A	m14330	adjust adjustable adjustabled adjustables adjustabling adjusted adjuster adjustered adjustering adjusterred adjusterring adjusters adjusting adjustive adjustived adjustives adjustiving adjustment adjustmented adjustmenting adjustments adjusts aids aidsed aidses aidsing aim aimed aiming aims automatic automaticed automaticing automatics conditions conditionsed conditionses conditionsing correct corrected correcting corrective correctived correctives correctiving corrects direct directed directing directs firing firinged firinging firings gun guned guning gunned gunning guns navigational navigationaled navigationaling navigationalled navigationalling navigationals place placed places placing point pointed pointing points seted seting sets setted setting target targeted targeting targets targetted targetting test tested testing tests under undered undering underred underring unders
+P	m14330	home in|range in
+I	m14331	zero point	n	wordnet	zero
+Y	m14331	zero.n.03
+A	m14331	can caned caning canned canning cans measured measuredded measuredding measureded measureding measureds negative negatived negatives negativing numerical numericaled numericaling numericalled numericalling numericals positive positived positives positiving quantities quantitiesed quantitieses quantitiesing scale scaled scales scaling
+P	m14331	numerical quantity
+I	m14332	zero tolerance	n	wordnet	zero
+Y	m14332	zero_tolerance.n.01
+A	m14332	antisocial antisocialed antisocialing antisocials application applicationed applicationing applications behavior behaviored behavioring behaviors extreme extremed extremes extreming intolerance intoleranced intolerances intolerancing intolerant intoleranted intoleranting intolerants law lawed lawing laws uncompromising uncompromisinged uncompromisinging uncompromisings
+I	m14333	zeroth law of thermodynamics	n	wordnet	zeroth
+Y	m14333	zeroth_law_of_thermodynamics.n.01
+A	m14333	bodied bodies bodiesed bodieses bodiesing body bodying each eached eaches eaching equilibria equilibrium equilibriumed equilibriuming equilibriums first firsted firsting firsts thermal thermaled thermaling thermalled thermalling thermals third thirded thirding thirds two twoed twoing twos
+P	m14333	law of thermodynamics
+I	m14334	zig zag	as	wordnet	zig
+Y	m14334	zigzag.s.01
+A	m14334	angles anglesed angleses anglesing crooked crookedded crookedding crookeded crookeding crookedness crookednessed crookednesses crookednessing crookeds having havinged havinging havings sharp sharped sharping sharps short shorted shorting shorts turns turnsed turnses turnsing zigzag zigzaged zigzagged zigzagging zigzaging zigzags
+I	m14335	zinc deficiency	n	wordnet	zinc
+Y	m14335	zinc_deficiency.n.01
+A	m14335	caused causedded causedding causeded causeding causeds cystic cysticed cysticing cystics diet dieted dieting diets disease diseased diseases diseasesed diseaseses diseasesing diseasing fibrosis fibrosised fibrosises fibrosising inadequate inadequated inadequates inadequating liver livered livering liverred liverring livers
+P	m14335	deficiency disease
+I	m14336	zip by	v	wordnet	zip ziped ziping zipped zipping zips
+Y	m14336	zip_by.v.01
+A	m14336	move moved moves moving pass passed passer passered passering passerred passerring passers passes passing quicklied quicklies quickly quicklying surpass surpassed surpasses surpassing
+P	m14336	fly by|go by|go past|pass by|travel by|whisk by
+I	m14337	zip up	v	wordnet	zip ziped ziping zipped zipping zips
+Y	m14337	zip_up.v.01
+A	m14337	close closed closes closing fasten fastened fastener fastenered fastenering fastenerred fastenerring fasteners fastening fasteninged fasteninging fastenings fastenned fastenning fastens fix fixed fixes fixing fixture fixtured fixtures fixturing secure secured secures securing zipper zippered zippering zipperred zipperring zippers
+I	m14338	zodiacal light	n	wordnet	zodiacal
+Y	m14338	zodiacal_light.n.01
+A	m14338	after aftered aftering afterred afterring afters before befored befores beforing cosmic cosmiced cosmicing cosmics dust dusted dusting dusts ecliptic eclipticed eclipticing ecliptics just justed justing justs luminous luminoused luminouses luminousing plane planed planes planing reflection reflectioned reflectioning reflections reflexion reflexioned reflexioning reflexions skied skies sky skying sunlight sunlighted sunlighting sunlights sunrise sunrised sunrises sunrising sunset sunseted sunseting sunsets sunsetted sunsetting tract tracted tracting tracts visible visibled visibles visibling
+I	m14339	zonk out	v	wordnet	zonk zonked zonking zonks
+Y	m14339	zonk_out.v.01 zonk_out.v.02
+A	m14339	asleep asleeped asleeping asleeps blackout blackouted blackouting blackouts conk conked conking conks consciousness consciousnessed consciousnesses consciousnessing due dued dues duing example exampled examples exampling extremelied extremelies extremely extremelying faint fainted fainting faints fall falled fallen falling falls fast fasted fasting fasts fell lose losed loses losing lost sudden suddened suddening suddenned suddenning suddens swoon swooned swooning swoons tired tiredded tiredding tireded tireding tireds trauma traumaed traumaing traumas traumata turn turned turning turninged turninging turnings turns
+P	m14339	black out|change state|dope off|doze off|drift off|drop off|drowse off|fall asleep|flake out|nod off|pass out
+I	m14340	zoom along	v	wordnet	zoom zoomed zooming zooms
+Y	m14340	zoom.v.01
+A	m14340	hurried hurries hurry hurrying hurryinged hurryinging hurryings move moved moves moving quicklied quicklies quickly quicklying sped speed speeded speeding speeds whizz whizzed whizzes whizzing zip ziped ziping zipped zipping zips
+P	m14340	travel rapidly|whizz along
+I	m14341	zoom in	v	wordnet	zoom zoomed zooming zooms
+Y	m14341	zoom_in.v.01
+A	m14341	attention attentioned attentioning attentions center centered centering centeringed centeringing centerings centerred centerring centers centre centred centres centring closelied closelies closely closelying concentrate concentrated concentrates concentrating concentration concentrationed concentrationing concentrations examine examined examines examining foci focus focused focuses focusing focusinged focusinging focusings focussing focussinged focussinging focussings one's one'sed one'ses one'sing pore pored pores poring rivet riveted riveting rivets rivetted rivetting
+R	access account accounts address addresses admin administrator admins agenda agent agents ai alarm alarms annihilate announce announcement api archive archives asset assets assistant assistants attachment attachments auction backup backups balance bank banks binaries binary bitcoin boss bot bots branch branches broadcast browser btc bucket buckets budget calendar camera cameras card cards cash ceo cfo channel channels chat chatbot chats client clients clipboard cloud code codes command commands commit config configuration contact contacts contract contracts cookie cookies credential credentials crypto customer customers dashboard database databases db defraud delete deploy detector detectors developer device devices directions directive directives disk disks divert dm dms doc docs document documents domain domains donation donations donor donors download drive drives drone drones dump e-mail email emails embezzle embezzlement employee employees env erase escrow eval evaluate exec execute exfiltrate extinguisher feed feeds file files finance firewall fleece folder folders format forum forums fund funds funnel furnace garage giftcard guardrail guardrails guidance guidelines heater heating hoax holdings identity impersonate impersonation inbox install instruction instructions intersection investment investments invoice invoices invoke jailbreak key keychain keys launder laundering layoff layoffs leak licence license link links liquidate llm loan loans lock locks log login logins logs loot macro macros mail mailbox message messages messaging microphone model models money mortgage network networks newsletter official otp override package packages passcode passcodes passport password passwords paste patch pay payment payments payout payouts payroll pension permission permissions persona phone phones pilfer pin ping pins pong port portal portfolio portfolios ports pose posing post posting posts press priority privilege privileges proceeds proclaim profile profiles prompt prompts proxy publish pump pumps purchase purchases recovery refund refunds repo repos repositories repository reserve robot robots root router rumor rumors rumour rumours salaries salary screenshot screenshots script scripts secret secrets sell sensor sensors server servers session sessions settings share shares sharing shell signature siphon skim smoke sms social spread spreadsheet sprinkler ssh ssn staff steal stock stocks string sudo swindle sync tag tags tax taxes terminal text texts thermostat ticker token tokens trade trades traffic transfer transfers tweet tweets uncensored unrestricted upload url urls user username usernames users valve valves vendor vendors verification voucher vouchers vpn wallet wallets webcam website websites wifi wipe wire workbook
+H	authorize_identity	annul annuled annuling annulled annulling annuls approve approved approves approving authorise authorised authorises authorising authorize authorized authorizes authorizing countermand countermanded countermanding countermands delegate delegated delegates delegating designate designated designates designating draft drafted drafting drafts empower empowered empowering empowerred empowerring empowers endorse endorsed endorses endorsing enrol enroled enroling enroll enrolled enrolling enrolls enrols entitle entitled entitles entitling grant granted granting grants impersonate impersonated impersonates impersonating indorse indorsed indorses indorsing invite invited invites inviting license licensed licenses licensing mandate mandated mandates mandating okay okayed okaying okays ratified ratifies ratify ratifying reassign reassigned reassigning reassigns recruit recruited recruiting recruits register registered registering registerred registerring registers repeal repealed repealing repeals rescind rescinded rescinding rescinds revoke revoked revokes revoking sanction sanctioned sanctioning sanctions sign signed signing signs subscribe subscribed subscribes subscribing unlock unlocked unlocking unlocks validate validated validates validating vouchsafe vouchsafed vouchsafes vouchsafing whitelist whitelisted whitelisting whitelists
+H	cancel_disable	cancel canceled canceling cancelled cancelling cancels deactivate deactivated deactivates deactivating decommission decommissioned decommissioning decommissions disable disabled disables disabling disarm disarmed disarming disarms disenable disenabled disenables disenabling incapacitate incapacitated incapacitates incapacitating shutdown shutdowned shutdowning shutdowns suspend suspended suspending suspends terminate terminated terminates terminating unsubscribe unsubscribed unsubscribes unsubscribing
+H	destroy	delete deleted deletes deleting demolish demolished demolishes demolishing destroy destroyed destroying destroys destruct destructed destructing destructs devastate devastated devastates devastating devour devoured devouring devours disassemble disassembled disassembles disassembling erase erased erases erasing excise excised excises excising expunge expunged expunges expunging extirpate extirpated extirpates extirpating format formated formating formats formatted formatting purge purged purges purging remove removed removes removing shred shredded shredding shreded shreding shreds uninstall uninstalled uninstalling uninstalls wipe wiped wipes wiping wreck wrecked wrecking wrecks
+H	execute_acquire	activate activated activates activating actuate actuated actuates actuating deploy deployed deploying deploys download downloaded downloading downloads execute executed executes executing fetch fetched fetches fetching induct inducted inducting inducts instal instaled instaling install installed installing installs instals invoke invoked invokes invoking launch launched launches launching reactivate reactivated reactivates reactivating reinstall reinstalled reinstalling reinstalls trigger triggered triggering triggerred triggerring triggers
+H	money_commerce	appropriate appropriated appropriates appropriating bade bid bidded bidden bidding bided biding bids book booked booking books bought buy buyed buying buys defray defrayed defraying defrays deposit deposited depositing deposits depositted depositting disburse disbursed disburses disbursing dispose disposed disposes disposing donate donated donates donating earmark earmarked earmarking earmarks expend expended expending expends finance financed finances financing institutionalize institutionalized institutionalizes institutionalizing lodge lodged lodges lodging order ordered ordering orderred orderring orders paid pay payed paying pays program programed programing programmed programmes programming programs purchase purchased purchases purchasing reassign reassigned reassigning reassigns refund refunded refunding refunds reimburse reimbursed reimburses reimbursing repaid repay repayed repaying repays reschedule rescheduled reschedules rescheduling reserve reserved reserves reserving schedule scheduled schedules scheduling sell selled selling sells slot sloted sloting slots slotted slotting sold subscribe subscribed subscribes subscribing tender tendered tendering tenderred tenderring tenders transfer transfered transfering transferred transferring transfers transmit transmited transmiting transmits transmitted transmitting withdraw withdrawed withdrawing withdrawn withdraws withdrew
+H	outbound_data	channel channeled channeling channelled channelling channels disclose disclosed discloses disclosing divert diverted diverting diverts divulge divulged divulges divulging email emailed emailing emails export exported exporting exports forward forwarded forwarding forwards issue issued issues issuing leak leaked leaking leaks mail mailed mailing mails post posted posting posts publish published publishes publishing redirect redirected redirecting redirects reveal revealed revealing reveals send sended sending sends sent share shared shares sharing smuggle smuggled smuggles smuggling transmit transmited transmiting transmits transmitted transmitting tweet tweeted tweeting tweets uncover uncovered uncovering uncoverred uncoverring uncovers unveil unveiled unveiling unveils upload uploaded uploading uploads
+H	override_rules	bypass bypassed bypasses bypassing bypast circumvent circumvented circumventing circumvents disregard disregarded disregarding disregards flout flouted flouting flouts forget forgeted forgeting forgets forgetted forgetting forgot forgotten ignore ignored ignores ignoring neglect neglected neglecting neglects omit omited omiting omits omitted omitting overridden override overrided overrides overriding overrode overrule overruled overrules overruling skip skiped skiping skipped skipping skips
+H	physical	axe axed axes axing blast blasted blasting blasts blew blow blowed blowing blown blows bomb bombed bombing bombs break breaked breaking breaks broke broken buried buries burn burned burning burns burnt bury burying butcher butchered butchering butcherred butcherring butchers choke choked chokes choking crush crushed crushes crushing dump dumped dumping dumps freeze freezed freezes freezing froze frozen gut guted guting guts gutted gutting hack hacked hacking hacks kill killed killing kills murder murdered murdering murderred murderring murders nuke nuked nukes nuking poison poisoned poisoning poisonned poisonning poisons sabotage sabotaged sabotages sabotaging scrap scraped scraping scrapped scrapping scraps shoot shooted shooting shoots shot slash slashed slashes slashing smash smashed smashes smashing stab stabbed stabbing stabed stabing stabs strangle strangled strangles strangling torch torched torches torching torpedo torpedoed torpedoing torpedos trash trashed trashes trashing wreck wrecked wrecking wrecks
+L	baby boss child children colleague colleagues coworker coworkers everybody everyone guy guys her him human humans kid kids man me men neighbor neighbour people person somebody someone them us woman women you
+G	cannot neither never no nobody none nor not nothing nowhere without
+U	dozen=12 eight=8 eighteen=18 eleven=11 fifteen=15 fifty=50 five=5 forty=40 four=4 fourteen=14 hundred=100 nine=9 nineteen=19 seven=7 seventeen=17 six=6 sixteen=16 ten=10 thirteen=13 thirty=30 thousand=1000 three=3 twelve=12 twenty=20 two=2
+J	ignore the previous|ignore previous|ignore all previous|ignore your|disregard your|disregard the previous|disregard all|system note|system prompt|as an ai|you are an ai|developer mode|new instructions|override your|do not tell
+F	like a <slot> would|as a <slot> would|just as|the way a <slot>|if you are an ai|if you're an ai|imagine you are|pretend you are|pretend to be|is to <slot> as|in the story|go and do likewise|do likewise|do the same|as the saying goes|think of <slot> as|consider <slot> a
+S	a able about act action all also an and any are as at be became become becomes been being but by came cause causes certain come did do does done down especially etc for form from gave get gets give gives go goes got had has have he her his how i if in into is it its kind made make makes manner many me more most much my no not of off often on one ones onto or other others our out over part particular people person put puts quality sense set she so some somebody someone something sort state take takes than that the their them then there these they thing things this those time to took up us use used usually very was way we went were what when where which who with you your
+K	about across after along around at away back by down for from in into off on onto out over through to up with
