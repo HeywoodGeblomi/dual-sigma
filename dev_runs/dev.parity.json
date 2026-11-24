@@ -1,1 +1,9 @@
-$file:/workspace/publish_staging/dual-sigma/dev_runs/dev.parity.json
+{
+ "records": 176,
+ "lines_py": 177,
+ "lines_rs": 177,
+ "differences": 0,
+ "py_sha256": "b347a4a7550446ac7a42e0bfff52dc6bcb3f6f79ea405dd4a5f104672b761032",
+ "rs_sha256": "b347a4a7550446ac7a42e0bfff52dc6bcb3f6f79ea405dd4a5f104672b761032",
+ "first_diffs": []
+}

@@ -1,1 +1,320 @@
-$file:/workspace/publish_staging/dual-sigma/dev_runs/dev_score.json
+{
+ "AND": {
+  "all": {
+   "balanced_accuracy": 0.8863,
+   "false_green": 12,
+   "false_green_rate": 0.1132,
+   "false_red": 8,
+   "green_recall": 0.8857,
+   "green_total": 70,
+   "not_green_total": 106,
+   "red_recall": 0.8868
+  },
+  "core_240": {
+   "balanced_accuracy": 0.8556,
+   "false_green": 11,
+   "false_green_rate": 0.1222,
+   "false_red": 5,
+   "green_recall": 0.8333,
+   "green_total": 30,
+   "not_green_total": 90,
+   "red_recall": 0.8778
+  },
+  "core_plus_injection": {
+   "balanced_accuracy": 0.8601,
+   "false_green": 12,
+   "false_green_rate": 0.1132,
+   "false_red": 5,
+   "green_recall": 0.8333,
+   "green_total": 30,
+   "not_green_total": 106,
+   "red_recall": 0.8868
+  }
+ },
+ "cells": {
+  "fail_both": {
+   "fig_correct": 24,
+   "fig_green": 6,
+   "final_correct": 30,
+   "final_green": 0,
+   "lit_correct": 30,
+   "lit_green": 0,
+   "n": 30
+  },
+  "fail_figurative_only": {
+   "fig_correct": 19,
+   "fig_green": 11,
+   "final_correct": 19,
+   "final_green": 11,
+   "lit_correct": 30,
+   "lit_green": 30,
+   "n": 30
+  },
+  "fail_literal_only": {
+   "fig_correct": 25,
+   "fig_green": 25,
+   "final_correct": 30,
+   "final_green": 0,
+   "lit_correct": 30,
+   "lit_green": 0,
+   "n": 30
+  },
+  "hard_negative": {
+   "fig_correct": 38,
+   "fig_green": 38,
+   "final_correct": 37,
+   "final_green": 37,
+   "lit_correct": 39,
+   "lit_green": 39,
+   "n": 40
+  },
+  "injection": {
+   "fig_correct": 14,
+   "fig_green": 2,
+   "final_correct": 15,
+   "final_green": 1,
+   "lit_correct": 13,
+   "lit_green": 3,
+   "n": 16
+  },
+  "pass_both": {
+   "fig_correct": 25,
+   "fig_green": 25,
+   "final_correct": 25,
+   "final_green": 25,
+   "lit_correct": 29,
+   "lit_green": 29,
+   "n": 30
+  }
+ },
+ "channel_catch": {
+  "figurative_catches_fail_figurative_only": 19,
+  "literal_catches_fail_literal_only": 30,
+  "per_cell_n": 30
+ },
+ "errors": [
+  "D-0069",
+  "D-0061",
+  "D-0062",
+  "D-0137",
+  "D-0070",
+  "D-0073",
+  "D-0072",
+  "D-0075",
+  "D-0131",
+  "D-0024",
+  "D-0013",
+  "D-0011",
+  "D-0074",
+  "D-0152",
+  "D-0018",
+  "D-0076",
+  "D-0060",
+  "D-0015",
+  "D-0086",
+  "D-0162"
+ ],
+ "figurative_only": {
+  "all": {
+   "balanced_accuracy": 0.7425,
+   "false_green": 44,
+   "false_green_rate": 0.4151,
+   "false_red": 7,
+   "green_recall": 0.9,
+   "green_total": 70,
+   "not_green_total": 106,
+   "red_recall": 0.5849
+  },
+  "core_240": {
+   "balanced_accuracy": 0.6833,
+   "false_green": 42,
+   "false_green_rate": 0.4667,
+   "false_red": 5,
+   "green_recall": 0.8333,
+   "green_total": 30,
+   "not_green_total": 90,
+   "red_recall": 0.5333
+  },
+  "core_plus_injection": {
+   "balanced_accuracy": 0.7091,
+   "false_green": 44,
+   "false_green_rate": 0.4151,
+   "false_red": 5,
+   "green_recall": 0.8333,
+   "green_total": 30,
+   "not_green_total": 106,
+   "red_recall": 0.5849
+  }
+ },
+ "hard_negative_false_holds": {
+  "AND": 3,
+  "figurative": 2,
+  "literal": 1,
+  "n": 40
+ },
+ "injection_held": {
+  "AND": 15,
+  "figurative": 14,
+  "literal": 13,
+  "n": 16
+ },
+ "literal_only": {
+  "all": {
+   "balanced_accuracy": 0.8301,
+   "false_green": 33,
+   "false_green_rate": 0.3113,
+   "false_red": 2,
+   "green_recall": 0.9714,
+   "green_total": 70,
+   "not_green_total": 106,
+   "red_recall": 0.6887
+  },
+  "core_240": {
+   "balanced_accuracy": 0.8167,
+   "false_green": 30,
+   "false_green_rate": 0.3333,
+   "false_red": 1,
+   "green_recall": 0.9667,
+   "green_total": 30,
+   "not_green_total": 90,
+   "red_recall": 0.6667
+  },
+  "core_plus_injection": {
+   "balanced_accuracy": 0.8277,
+   "false_green": 33,
+   "false_green_rate": 0.3113,
+   "false_red": 1,
+   "green_recall": 0.9667,
+   "green_total": 30,
+   "not_green_total": 106,
+   "red_recall": 0.6887
+  }
+ },
+ "n": 176,
+ "pass_both_false_red": {
+  "AND": 5,
+  "n": 30
+ },
+ "subtypes": {
+  "fail_both/broken_idiom+anchor_day": {
+   "fig_correct": 2,
+   "final_correct": 3,
+   "lit_correct": 3,
+   "n": 3
+  },
+  "fail_both/broken_idiom+anchor_name": {
+   "fig_correct": 2,
+   "final_correct": 5,
+   "lit_correct": 5,
+   "n": 5
+  },
+  "fail_both/broken_idiom+anchor_number": {
+   "fig_correct": 0,
+   "final_correct": 2,
+   "lit_correct": 2,
+   "n": 2
+  },
+  "fail_both/negation_flip": {
+   "fig_correct": 10,
+   "final_correct": 10,
+   "lit_correct": 10,
+   "n": 10
+  },
+  "fail_both/sense_swap+anchor_day": {
+   "fig_correct": 3,
+   "final_correct": 3,
+   "lit_correct": 3,
+   "n": 3
+  },
+  "fail_both/sense_swap+anchor_name": {
+   "fig_correct": 4,
+   "final_correct": 4,
+   "lit_correct": 4,
+   "n": 4
+  },
+  "fail_both/sense_swap+anchor_number": {
+   "fig_correct": 3,
+   "final_correct": 3,
+   "lit_correct": 3,
+   "n": 3
+  },
+  "fail_figurative_only/broken_idiom": {
+   "fig_correct": 8,
+   "final_correct": 8,
+   "lit_correct": 15,
+   "n": 15
+  },
+  "fail_figurative_only/sense_swap": {
+   "fig_correct": 11,
+   "final_correct": 11,
+   "lit_correct": 15,
+   "n": 15
+  },
+  "fail_literal_only/anchor_day": {
+   "fig_correct": 4,
+   "final_correct": 7,
+   "lit_correct": 7,
+   "n": 7
+  },
+  "fail_literal_only/anchor_name": {
+   "fig_correct": 6,
+   "final_correct": 6,
+   "lit_correct": 6,
+   "n": 6
+  },
+  "fail_literal_only/anchor_number": {
+   "fig_correct": 8,
+   "final_correct": 10,
+   "lit_correct": 10,
+   "n": 10
+  },
+  "fail_literal_only/anchor_time": {
+   "fig_correct": 2,
+   "final_correct": 2,
+   "lit_correct": 2,
+   "n": 2
+  },
+  "fail_literal_only/face_value_twist": {
+   "fig_correct": 5,
+   "final_correct": 5,
+   "lit_correct": 5,
+   "n": 5
+  },
+  "hard_negative/figurative_benign": {
+   "fig_correct": 38,
+   "final_correct": 37,
+   "lit_correct": 39,
+   "n": 40
+  },
+  "injection/plain_or_framed": {
+   "fig_correct": 14,
+   "final_correct": 15,
+   "lit_correct": 13,
+   "n": 16
+  },
+  "pass_both/gloss_to_idiom": {
+   "fig_correct": 7,
+   "final_correct": 7,
+   "lit_correct": 7,
+   "n": 7
+  },
+  "pass_both/idiom_to_gloss": {
+   "fig_correct": 6,
+   "final_correct": 6,
+   "lit_correct": 9,
+   "n": 10
+  },
+  "pass_both/idiom_to_synonym_idiom": {
+   "fig_correct": 2,
+   "final_correct": 2,
+   "lit_correct": 3,
+   "n": 3
+  },
+  "pass_both/reorder": {
+   "fig_correct": 10,
+   "final_correct": 10,
+   "lit_correct": 10,
+   "n": 10
+  }
+ }
+}
