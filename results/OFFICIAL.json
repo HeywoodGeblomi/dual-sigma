@@ -1,1 +1,14 @@
-$file:/workspace/publish_staging/dual-sigma/results/OFFICIAL.json
+{
+ "started": "2026-11-23 18:36:51 EST",
+ "prereg_sha256": "b498af90ffc4e18f09082e22e80d3d1eeef46ea9bb646012396f115f2a9f6d64",
+ "freeze_sha256": "5b67cc930cacea892e17167d80012006227a3fc2c34f7b64f7200c542d90cbdc",
+ "blind_seed": 20261123,
+ "blind_sha256": "f7ce729ea9292adab715eccc5745c7d13131a761a6c6732503c6ce0c953090e4",
+ "blind_generated": "2026-11-23 18:36:51 EST",
+ "decisions_sha256": "ab32969b29b01fbcea5adc285f7f76b977ec5d2181bed174f0491483c8a7f05c",
+ "scored": "2026-11-23 18:36:52 EST",
+ "score_sha256": "2fae03826223ac18aac805077565c52f83754e197d83716ca28003553e3412b9",
+ "parity_blind": 0,
+ "parity_fuzz": 0,
+ "finished": "2026-11-23 18:36:55 EST"
+}
